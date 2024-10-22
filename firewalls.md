@@ -53,6 +53,8 @@ To enable and configure the Uncomplicated Firewall (UFW) on Ubuntu to control ne
 
 ### Objective
 Linux Server hosts a web application. We will confirm that the Apache web server is running on the Linux server and is accessible over the network.
+![image](https://github.com/user-attachments/assets/9c2f3915-b68d-4589-96bd-44b9d3a9de54)
+
 
 ### Instructions
 1. ** Notedown Linux(Ubuntu) Server IPV4 address**
