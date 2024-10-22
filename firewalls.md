@@ -3,6 +3,8 @@ Portainer Access on the Sandbox VM
 https://localhost:9443/#!/auth
 user/pwd: admin/infosecure123456789
 
+![image](https://github.com/user-attachments/assets/c53b7626-d486-4412-ac20-554c8d53256c)
+
 
 ## Part 1: Configuring UFW Firewall on Ubuntu
 
@@ -53,6 +55,7 @@ To enable and configure the Uncomplicated Firewall (UFW) on Ubuntu to control ne
 
 ### Objective
 Linux Server hosts a web application. We will confirm that the Apache web server is running on the Linux server and is accessible over the network.
+
 ![image](https://github.com/user-attachments/assets/9c2f3915-b68d-4589-96bd-44b9d3a9de54)
 
 
