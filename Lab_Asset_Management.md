@@ -3,7 +3,7 @@
 ## Lab - Asset Management with Snipe-IT and Cybersecurity Framework
 
 ### **Objective**
-You will gain hands-on experience with Snipe-IT by managing various aspects of IT assets, including creating assets,
+You will gain hands-on experience with Snipe-IT (https://snipeitapp.com/demo) by managing various aspects of IT assets, including creating assets,
 implementing BYOD policies, managing consumables and accessories, changing device statuses, adding software as assets,
 and using the NIST Cybersecurity Framework's **Identify** function to manage organizational assets.
 
