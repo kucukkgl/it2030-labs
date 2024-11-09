@@ -22,14 +22,13 @@ Canvas Submission will be as following:
 **Show-and-Tell Presentation**
 - You will present your Snipe-IT setup to your partner, highlighting key components:
   - Asset creation (e.g., two assets with different categories)
+  - Software as an asset creation and management
   - BYOD implementation and policies
   - Changes in asset statuses
   - License and consumable management
   - Custom user roles and permissions
-  - Key findings from the reports (e.g., trends, stock management)
   - Asset auditing process and any discrepancies found
   - Checkout process and user management
-  - Software as an asset creation and management
   - Mapping activities with CSF
 **Feedback and Discussion**
 - After presenting, provide feedback to your partner on:
