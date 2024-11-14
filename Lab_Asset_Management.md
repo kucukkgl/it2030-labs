@@ -46,73 +46,69 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
 ---
 ### Tasks
 
-**Asset Creation and Management**
-- **Create Assets**: 
+**1. Asset Creation and Management**
+- **Create Hardware Assets**: 
   - Add at least **two assets in different categories** (e.g., “Laptops” and “Peripherals”) with realistic details like( serial numbers, models, status, location, image, and purchase dates and warranties, if applicable).
-  - Assign assets to user profiles to simulate real-world scenarios.
-  - Note the tag and serial number to serach your created asset easily.
+  - Note the tag and serial number to search your created asset easily.
 - **Change Asset Status**:
   - For each asset, change its status to reflect various states, such as "Pending", "Ready to Deploy", "Archived" or  if applicable “In Use,” “Available,” “Maintenance,” or “Retired.”
   - Document each status change with a note on why it was necessary (e.g., a device was retired due to age or moved to maintenance due to repair needs).
 
 
-**Adding Software as an Asset**
+**2. Adding Software as an Asset**
 - **Add Software as an Asset**:
   - Add at least **one software product** as an asset in the Snipe-IT system (e.g., “Microsoft Office 365,” “Adobe Photoshop”).
   - Include key information such as license type, purchase date, number of seats, and the user(s) to whom the software is assigned.
   - Set any relevant notes (e.g., “Valid until December 2025,” “Subscription renewal required annually”).
   - Track the software license and usage history within the system.
     
-**Accessories and Consumables Management**
+**3. Accessories and Consumables Management**
 - **Add Accessories**:
   - Create at least **two accessories** (e.g., “Laptop Charger,” “Wireless Mouse”) and associate them with corresponding assets.
-  - Indicate which users can check out accessories and add any relevant notes (e.g., “Must be returned after each workday”).
+  - Indicate which users can check out accessories and add any relevant notes if applicable (e.g., “Must be returned after each workday”).
 - **Create Consumables**:
   - Create at least **two consumables** (e.g., “Printer Ink Cartridges,” “USB Cables”) and manage stock levels and reorder points.
-  - Set reorder levels and document usage history, noting any frequently used consumables that may require additional stock.
 
-**BYOD Policy Implementation**
-- **Define BYOD**: In a short paragraph, define “Bring Your Own Device” (BYOD) and briefly discuss its benefits (e.g., flexibility, cost savings) and challenges (e.g., security, compatibility).
+**4. BYOD Policy Implementation**
+Follwing steps are generic, find the relevant step that SnipeIT app uses.
 - **Create BYOD Assets**:
   - Add at least **two personal devices** to the system as BYOD assets (e.g., "Employee's Personal Laptop," "Employee's Smartphone").
+  - Add details like warrnaty, cost, End of Life date
   - Assign these BYOD assets to users, reflecting a realistic BYOD setup.
 - **Set BYOD Permissions**:
   - Adjust permissions to restrict BYOD asset access appropriately (e.g., view-only access to sensitive company data).
 - **Security Considerations**:
-  - List a few key security measures that should accompany a BYOD policy (e.g., encryption, VPN requirements).
+  - Think of a few key security measures that should accompany a BYOD policy (e.g., encryption, VPN requirements).
 
-**User Creation and Permissions Configuration**
+**5. User Creation and Permissions Configuration**
 - **Create Users**:
-  - Create users name starting with 2030_yourname and first letter of last name.
+  - Create a user: name starts with 2030_yourFirstname_LastnameInitial.
   - use a fake email ending with @2030.edu
   - Assign permissions to the user you have created.
   - If app permits, set up users with diverse roles (e.g., “IT Manager,” “Creative Designer”) and adjust each user’s permissions based on their role.
+  - Assign assets to users to simulate real-world scenarios by checking out.
 
-**License and Consumable Management**
+
+**6. License and Consumable Management**
 - **Add Licenses and Consumables**:
   - Choose one or both options:
     - Create a **software license** (e.g., design software, cybersecurity software) and configure it with relevant restrictions.
     - Create **consumables** (e.g., batteries, cables) and manage stock levels and reorder points.
       
-**Reporting and Data Analysis**
+**7. Reporting and Data Analysis**
 - **Generate Reports**:
   - Use Snipe-IT’s reporting feature to create reports that provide an overview of all assets by category, user assignment, and asset status.
   - Generate reports for license usage and consumable stock levels, noting reorder points and current stock.
 - **Analyze Report Findings**:
   - Do you suggest potential management actions (e.g., ordering more consumables, adding licenses, planning asset replacements).
 
-**Audit an Asset**
+**8. Audit an Asset**
 - **Asset Auditing**:
   - Select at least **one asset** and perform an audit within Snipe-IT.
   - Ensure that the asset’s details (e.g., serial number, status, location, user assignment) match the physical asset.
   - If discrepancies are found, document them and adjust the system data accordingly.
   - Write a brief report on the auditing process, discussing any issues found during the audit and how they were resolved.
 
-**Checkout an Asset**
-- **Checkout Process**:
-  - Select at least **one asset** (e.g., a laptop or peripheral) and check it out to a user.
-  - Document the checkout process, including any relevant details such as the check-out date, expected return date, and user details.
-  - After the checkout, update the asset status in the system to reflect that it is checked out.
  
 ### Cybersecurity Framework Mapping
 Map your activities with the CSF here: (https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id/id-am/)
