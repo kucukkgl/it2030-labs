@@ -55,6 +55,14 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
   - For each asset, change its status to reflect various states, such as "Pending", "Ready to Deploy", "Archived" or  if applicable “In Use,” “Available,” “Maintenance,” or “Retired.”
   - Document each status change with a note on why it was necessary (e.g., a device was retired due to age or moved to maintenance due to repair needs).
 
+
+**Adding Software as an Asset**
+- **Add Software as an Asset**:
+  - Add at least **one software product** as an asset in the Snipe-IT system (e.g., “Microsoft Office 365,” “Adobe Photoshop”).
+  - Include key information such as license type, purchase date, number of seats, and the user(s) to whom the software is assigned.
+  - Set any relevant notes (e.g., “Valid until December 2025,” “Subscription renewal required annually”).
+  - Track the software license and usage history within the system.
+    
 **Accessories and Consumables Management**
 - **Add Accessories**:
   - Create at least **two accessories** (e.g., “Laptop Charger,” “Wireless Mouse”) and associate them with corresponding assets.
@@ -74,30 +82,24 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
   - List a few key security measures that should accompany a BYOD policy (e.g., encryption, VPN requirements).
 
 **User Creation and Permissions Configuration**
-- **Create User Profiles**:
-  - Set up user profiles with diverse roles (e.g., “IT Manager,” “Creative Designer”) and adjust each user’s permissions based on their role.
-  - Provide a brief explanation of each permission setting, indicating why each user role requires specific access levels.
+- **Create Users**:
+  - Create users name starting with 2030_yourname and first letter of last name.
+  - use a fake email ending with @2030.edu
+  - Assign permissions to the user you have created.
+  - If app permits, set up users with diverse roles (e.g., “IT Manager,” “Creative Designer”) and adjust each user’s permissions based on their role.
 
 **License and Consumable Management**
 - **Add Licenses and Consumables**:
   - Choose one or both options:
     - Create a **software license** (e.g., design software, cybersecurity software) and configure it with relevant restrictions.
     - Create **consumables** (e.g., batteries, cables) and manage stock levels and reorder points.
-
-**Adding Software as an Asset**
-- **Add Software as an Asset**:
-  - Add at least **one software product** as an asset in the Snipe-IT system (e.g., “Microsoft Office 365,” “Adobe Photoshop”).
-  - Include key information such as license type, purchase date, number of seats, and the user(s) to whom the software is assigned.
-  - Set any relevant notes (e.g., “Valid until December 2025,” “Subscription renewal required annually”).
-  - Track the software license and usage history within the system.
-
+      
 **Reporting and Data Analysis**
 - **Generate Reports**:
   - Use Snipe-IT’s reporting feature to create reports that provide an overview of all assets by category, user assignment, and asset status.
   - Generate reports for license usage and consumable stock levels, noting reorder points and current stock.
 - **Analyze Report Findings**:
-  - Write a short analysis identifying trends (e.g., high usage of specific assets, licenses nearing their seat limit).
-  - Suggest potential management actions (e.g., ordering more consumables, adding licenses, planning asset replacements).
+  - Do you suggest potential management actions (e.g., ordering more consumables, adding licenses, planning asset replacements).
 
 **Audit an Asset**
 - **Asset Auditing**:
@@ -115,7 +117,9 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
 ### Cybersecurity Framework Mapping
 Map your activities with the CSF here: (https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id/id-am/)
 You are supposed perform a mapping for your activity on the subcategory under ID.AM category.
-Do you think your asset manegemtn covered all the Asset Manegement sub categories?
+Do you think your asset management covered all the Asset Manegement sub categories?
+Goto ID.AM-1, what are the related controls?
+Visit CM-8 System Component Inventory SC, read teh control statements. Do you think the asset management tool is covering these statements? 
 Explain which sub categories are not covered by the Asset Management Tool you have used.
 For each sub category, you can navigate through the NIST 800-53 Security Controls and try undertanding  the control statements
 
