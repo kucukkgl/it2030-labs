@@ -48,17 +48,12 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
 
 **Asset Creation and Management**
 - **Create Assets**: 
-  - Add at least **two assets in different categories** (e.g., “Laptops” and “Peripherals”) with realistic details like serial numbers, purchase dates, and warranties.
+  - Add at least **two assets in different categories** (e.g., “Laptops” and “Peripherals”) with realistic details like( serial numbers, models, status, location, image, and purchase dates and warranties, if applicable).
   - Assign assets to user profiles to simulate real-world scenarios.
+  - Note the tag and serial number to serach your created asset easily.
 - **Change Asset Status**:
-  - For each asset, change its status to reflect various states, such as “In Use,” “Available,” “Maintenance,” or “Retired.”
+  - For each asset, change its status to reflect various states, such as "Pending", "Ready to Deploy", "Archived" or  if applicable “In Use,” “Available,” “Maintenance,” or “Retired.”
   - Document each status change with a note on why it was necessary (e.g., a device was retired due to age or moved to maintenance due to repair needs).
-
-**Asset Management and Cybersecurity Risk**
-- **Identify and Manage Assets**:
-  - According to the **NIST Cybersecurity Framework’s Identify (ID) function**, focus on the **Asset Management (ID.AM)** category. Ensure that all assets (e.g., hardware, software, systems) you create are identified and prioritized based on their importance to organizational objectives and cybersecurity risk strategy.
-  - Create an asset inventory with both critical and non-critical assets, reflecting their importance in achieving business purposes.
-  - Ensure the asset inventory is aligned with a risk management strategy.
 
 **Accessories and Consumables Management**
 - **Add Accessories**:
@@ -118,7 +113,9 @@ Additionally, I confirm that I have reviewed my classmate’s (Provide Name here
   - After the checkout, update the asset status in the system to reflect that it is checked out.
  
 ### Cybersecurity Framework Mapping
-Map your activities with the CSF here: https://csrc.nist.gov/Projects/cybersecurity-framework/Filters#/csf/filters
+Map your activities with the CSF here: (https://csf.tools/reference/nist-cybersecurity-framework/v1-1/id/id-am/)
 You are supposed perform a mapping for your activity on the subcategory under ID.AM category.
-
+Do you think your asset manegemtn covered all the Asset Manegement sub categories?
+Explain which sub categories are not covered by the Asset Management Tool you have used.
+For each sub category, you can navigate through the NIST 800-53 Security Controls and try undertanding  the control statements
 
